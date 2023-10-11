@@ -1,0 +1,9 @@
+Please check below links for good documentation on Exadata :
+
+https://alldba.com/exadata-key-features/
+
+https://blog.oracle-ninja.com/2012/09/07/exadata-x3-2-18th-rack/
+
+Oracle Exadata Database Machine Hardware Components by Model
+
+https://docs.oracle.com/en/engineered-systems/exadata-database-machine/dbmso/hardware-components-exadata-db-machine.html#GUID-5BA04A55-EDE8-4533-9AD8-2535785D1CB1
